@@ -61,6 +61,17 @@ Test  (Kafka -Console-Producer):
 
 
 
+![image](https://user-images.githubusercontent.com/97621443/172696404-350589a3-1705-4949-80ed-b8e4384374e1.png)
+
+
+![image](https://user-images.githubusercontent.com/97621443/172696703-5dea48b1-4bf7-4574-ba39-bfc9d841b9e1.png)
+
+
+![image](https://user-images.githubusercontent.com/97621443/172696829-e98ba38c-f990-4ba8-8eb2-5e5533702733.png)
+
+
+
+
 
 
 

@@ -37,6 +37,34 @@ Démarrage (Kafka-Console-Producer & Kafka-Console-Consumer):
 ![image](https://user-images.githubusercontent.com/97621443/172692454-18356c6b-b2a1-49b5-8080-bd410778f672.png)
 
 
+Projet Sur Intellij:
+
+![image](https://user-images.githubusercontent.com/97621443/172692807-a49ef5a4-1ee5-494b-9b2e-3d4b55ebc629.png)
+
+
+Le fichier app.properties:
+
+![image](https://user-images.githubusercontent.com/97621443/172692984-5494858c-a00a-46c9-931d-0013ee7b11c5.png)
+
+
+Test  (Kafka -Console-Consumer:):
+
+![image](https://user-images.githubusercontent.com/97621443/172693804-1824494f-d513-496a-8e41-af3b59691089.png)
+
+![image](https://user-images.githubusercontent.com/97621443/172693975-071928fc-ba93-4276-be8b-c223482bc6b4.png)
+
+![image](https://user-images.githubusercontent.com/97621443/172695068-cb8e75b0-0d32-4527-a347-655f20187e30.png)
+
+Test  (Kafka -Console-Producer):
+
+![image](https://user-images.githubusercontent.com/97621443/172695847-4f4873d4-8e4d-42ed-8af9-2ed76e0d59a9.png)
+
+
+
+
+
+
+
 
 
 

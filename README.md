@@ -73,6 +73,25 @@ Test  (Kafka -Console-Producer):
 
 
 
+Real Time Data Analytics en mode Stream Processing  utilisant KAFKA Streams qui permet de traiter en temps réel les messages du Topic :
+
+![image](https://user-images.githubusercontent.com/97621443/172965281-74f15288-516e-4aa3-92b4-27c5c3796079.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/97621443/172965346-0d3e453c-8460-41cf-9219-b27fec5cf930.png)
+
+
+![image](https://user-images.githubusercontent.com/97621443/172965653-508d980d-5a92-44cc-972b-4d2c69dfbc1f.png)
+
+Presentation graphique avec Canvas et JS:
+
+
+![image](https://user-images.githubusercontent.com/97621443/172966722-4d94fb58-5443-4609-8dda-390617fc59ca.png)
+
+
+
 
 
 
